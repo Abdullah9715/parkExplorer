@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353544484938",
+    "project_id": "parkexplorer-46f26",
+    "storage_bucket": "parkexplorer-46f26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353544484938:android:c4e54633ba4cacdd130eb3",
+        "android_client_info": {
+          "package_name": "com.parkexplorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJLQjzJqAmnlyQo_dk3CwLKVOSj6MG3Aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
