@@ -9,7 +9,7 @@ import auth from '@react-native-firebase/auth';
 const LoginScreen = () => {
   useEffect(() => {
     GoogleSignin.configure({
-      webClientId: 'AIzaSyDJLQjzJqAmnlyQo_dk3CwLKVOSj6MG3Aw',
+      webClientId: '',
     });
   }, []);
 
